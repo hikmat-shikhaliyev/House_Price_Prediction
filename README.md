@@ -22,5 +22,5 @@ Optimized the SVR model using the best hyperparameters obtained from the Randomi
 Analyzed the impact of individual variables on the prediction performance by training SVR models with single input features.
 Compared R2 scores for both training and testing sets.
 # Results
-The final SVR model with optimized hyperparameters achieved the best performance with an R2 score of XX% on the test data.
+The final SVR model with optimized hyperparameters achieved the best performance with an R2 score of 65% on the test data.
 Single variable analysis revealed that the 'X3 distance to the nearest MRT station' feature has the most significant impact on the prediction accuracy, followed by 'X4 number of convenience stores'.
